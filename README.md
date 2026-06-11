@@ -1,6 +1,20 @@
 # Codex Pets - Ranger
 
+[中文说明](README.zh-CN.md)
+
 This repository contains **Ranger**, an original blue-and-gold rescue pup mascot for Codex pets.
+
+## Preview
+
+![Ranger contact sheet](qa/ranger/contact-sheet.png)
+
+| Idle | Waving | Waiting |
+| --- | --- | --- |
+| ![Idle preview](qa/ranger/previews/idle.gif) | ![Waving preview](qa/ranger/previews/waving.gif) | ![Waiting preview](qa/ranger/previews/waiting.gif) |
+
+| Running Right | Running Left | Review |
+| --- | --- | --- |
+| ![Running right preview](qa/ranger/previews/running-right.gif) | ![Running left preview](qa/ranger/previews/running-left.gif) | ![Review preview](qa/ranger/previews/review.gif) |
 
 ## Install
 
